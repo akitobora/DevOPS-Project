@@ -18,7 +18,7 @@ title: Добро пожаловать на DevOps cources Wiki!
 5. [Управление доступом **(IAM)**](https://yandex.cloud/ru/docs/compute/security/)
 ## Полезные ссылки
 - Яндекс-практикум, курс [**"Инженер облачных сервисов**"](https://practicum.yandex.ru/profile/ycloud/);
-- **[Yandex Console]**(https://console.yandex.cloud/).
+- [**Yandex Console**](https://console.yandex.cloud/).
 
 - Веб-приложение, которое поможет понять Linux-команды, **Explain Shell** [(ссылка)](https://explainshell.com/).
 - Кастомная страница в случае **404** [(ссылка)](wiki/testError).
