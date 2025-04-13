@@ -16,6 +16,7 @@ title: Добро пожаловать на DevOps cources Wiki!
 3. [Работа с YC изнутри ВМ](https://yandex.cloud/ru/docs/compute/operations/vm-connect/auth-inside-vm);
 4. [Работа с помощью REST API](https://yandex.cloud/ru/docs/compute/api-ref/);
 5. [Управление доступом **(IAM)**](https://yandex.cloud/ru/docs/compute/security/)
+6. [Глава 2. Databases](/wiki/Yandex%20Databases.md)
 ## Полезные ссылки
 - Яндекс-практикум, курс [**"Инженер облачных сервисов**"](https://practicum.yandex.ru/profile/ycloud/);
 - [**Yandex Console**](https://console.yandex.cloud/).
