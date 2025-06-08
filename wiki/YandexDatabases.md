@@ -34,4 +34,11 @@ mysql --host=rc1a-h6pdlh88vbhudii9.mdb.yandexcloud.net \
 
     SELECT version();
 
-## MongoDB ##
+
+## 🛠️ Создание базы данных PostgreSQL
+```bash
+yc managed-postgresql cluster create \
+  --name my-db \
+  --network-name default \
+  --host zone=ru-central1-a \
+  --resources disk-size=10,disk-type=network-ssd
